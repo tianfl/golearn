@@ -1,5 +1,5 @@
 Git is a version control system.
 Git is a good free software.
 Add new line;
-tian falins
-zhang jun
+Tian falins
+Zhang jun
